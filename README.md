@@ -1,3 +1,4 @@
 # LandPageLeads
 npm install back
-npm install front
+npm install front/angular13
+
